@@ -1,9 +1,0 @@
-com\decathlon\score\calculator\FieldEventCalculatorTest.class
-com\decathlon\TestUtil.class
-com\decathlon\reader\SimpleFileReaderTest.class
-com\decathlon\output\XmlWriterTest.class
-com\decathlon\score\calculator\JumpEventCalculatorTest.class
-com\decathlon\score\calculator\TrackEventCalculatorTest.class
-com\decathlon\score\ScoreFinderTest.class
-com\decathlon\input\CSVInputServiceTest.class
-com\decathlon\output\SharedRankResultCreatorTest.class
